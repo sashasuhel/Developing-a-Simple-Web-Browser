@@ -1,0 +1,16 @@
+Heriot-Watt University 200#http://hw.ac.uk#133111909073408548
+Heriot-Watt University 200#http://hw.ac.uk#133111909060428820
+Heriot-Watt University 200#http://hw.ac.uk#133111908814984431
+Heriot-Watt University 200#http://hw.ac.uk#133111908556523844
+Google 200#http://www.google.com#133111908092111535
+Heriot-Watt University 200#http://hw.ac.uk#133111908059738472
+Google 200#http://www.google.com#133111908015661108
+Heriot-Watt University 200#http://hw.ac.uk#133111907684648310
+Heriot-Watt University 200#http://hw.ac.uk#133111765399809759
+Heriot-Watt University 200#http://hw.ac.uk#133111765331132046
+Invalid URL#http://hw.uk.ac#133111764684060599
+Invalid URL#http://www.hc.uk.ac#133111764377343968
+Invalid URL#http://www.hc.uk.ac#133111764358428747
+Invalid URL#http://www.hc.uk.ac#133111764358056819
+ 200#http://www.facebook.com#133111763412731867
+

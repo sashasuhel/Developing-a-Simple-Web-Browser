@@ -1,0 +1,11 @@
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web Browser.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web_Browser.EditFavourite.resources
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web_Browser.FormEditHomePage.resources
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web_Browser.MainForm.resources
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web_Browser.Properties.Resources.resources
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web_Browser.MyTabPage.resources
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web Browser.csproj.GenerateResource.cache
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web Browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web Browser.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web Browser.AssemblyInfo.cs
+C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\obj\Debug\netcoreapp3.1\Web Browser.csproj.CoreCompileInputs.cache

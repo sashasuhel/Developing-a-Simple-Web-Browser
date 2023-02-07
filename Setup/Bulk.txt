@@ -1,0 +1,6 @@
+http://status.savanttools.com/?code=404%20Not%20Found
+https://www.google.com
+http://status.savanttools.com/?code=403%20Forbidden
+https://www.facebook.com
+http://status.savanttools.com/?code=400%20Bad%20Request
+https://learn.microsoft.com/en-us/dotnet/api/system.net.httpwebrequest?view=net-7.0

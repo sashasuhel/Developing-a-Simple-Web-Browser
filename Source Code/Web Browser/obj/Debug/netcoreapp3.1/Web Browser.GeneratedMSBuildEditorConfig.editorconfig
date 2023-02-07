@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = Web_Browser.Program
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = Web_Browser
+build_property.ProjectDir = C:\Users\sasha\OneDrive - Heriot-Watt University\Code\C#\Local\Web Browser\Web Browser\
